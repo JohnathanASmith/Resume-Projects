@@ -61,5 +61,5 @@ _UNCW Navigator_ is a _**mobile application**_.
 ![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/UNCW-Navigator/navigator3.png)
 ![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/UNCW-Navigator/navigator4.png)
 
-[Back to top](https://github.com/JohnathanASmith/Resume-Projects/blob/main/README.md#resume-projects)
+[Back to top](https://github.com/JohnathanASmith/Resume-Projects#resume-projects)
 
