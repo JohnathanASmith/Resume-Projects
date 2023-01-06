@@ -20,7 +20,18 @@ _Paw Pals_ is a _**mobile application**_.
 
 **Database** : FireBase
 
-### IMages of Project
-![](https://github.com/UNCW-CSC-315/csc315-fa22-term-project-jsmith/blob/main/wiki_images/Untitled.png)
+### Images of Project
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/PawPals/loginValidation.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/PawPals/signupValidation.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/PawPals/recoveryValidation.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/PawPals/locationServicesConfirmation.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/PawPals/My%20Profile%20%2B%20Delete%20Post%20%2B%20Logout%20Button.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/PawPals/Edit%20Profile%20%2B%20Validation.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/PawPals/uploadingPhoto.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/PawPals/feedPreferences.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/PawPals/Like%20Post%20%2B%20Dislike%20Post%20%2B%20Out%20of%20Posts.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/PawPals/Create%20Post%20%2B%20Validation.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/PawPals/Detailed%20Post%20%2B%20Other%20User%20Profile.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/PawPals/Liked%20Post%20Screen%20%2B%20Unlike%20a%20Post.png)
 
 ## UNCW Navigator
