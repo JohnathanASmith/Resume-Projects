@@ -1,7 +1,7 @@
 # Resume-Projects
 For the display of projects for resume
 * [UNCW Navigator](https://github.com/JohnathanASmith/Resume-Projects/blob/main/README.md#uncw-navigator)
-* [PawPals](https://github.com/JohnathanASmith/Resume-Projects/edit/main/README.md#pawpals)
+* [PawPals](https://github.com/JohnathanASmith/Resume-Projects/blob/main/README.md#pawpals)
 
 ## Pawpals
 
