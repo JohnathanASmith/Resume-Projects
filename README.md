@@ -61,5 +61,17 @@ _UNCW Navigator_ is a _**mobile application**_.
 ![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/UNCW-Navigator/navigator3.png)
 ![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/UNCW-Navigator/navigator4.png)
 
+## Java Hierarchy Lab
+
+### Overview of Project
+This Java lab/project was completed in one of my classes with two other people. The project was focused on creation of classes and hierarchy. This program was strictly communicated through command line and has no user interface. The premise is that the user will be asked what transportation they would like and with the answers given respond accordingly. There is a screenshot below of on possible route that was taken for the conversation. To view the code click [here](https://github.com/JohnathanASmith/Projects/tree/main/Past%20Projects/Java%20Hierarchy%20Lab/src)
+
+### Implementation Technologies
+
+**Languages Utilized** : Java
+
+### Images of Project
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/Java-Lab/java-lab-screenshot.png)
+
 [Back to top](https://github.com/JohnathanASmith/Resume-Projects#resume-projects)
 
