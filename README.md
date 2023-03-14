@@ -2,6 +2,7 @@
 For the display of projects for resume
 * [UNCW Navigator](https://github.com/JohnathanASmith/Resume-Projects#uncw-navigator)
 * [PawPals](https://github.com/JohnathanASmith/Resume-Projects#pawpals)
+* [Java Lab](https://github.com/JohnathanASmith/Resume-Projects#java-hierarchy-lab)
 
 ## Pawpals
 
