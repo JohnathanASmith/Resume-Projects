@@ -43,7 +43,7 @@ _Paw Pals_ is a _**mobile application**_.
 UNCW Navigator was a project I worked on in my mobile application class my senior year. This project had the option to work in a group but I choose to go solo. This project was worked on for most of the semester in milestones. 
 
 ### What is UNCW Navigator?
-UNCW navigator is a mobile application that gives the user access to a map of campus or any campus that it is set to and gives the ability to get directions and explore campus. You are able to create an account and save specific buildings for easy access for later use. You can explore buildings and see a description of the building. There is also the ability to search for a building by its name. For this project I also have a demo video that is available to download and watch if that is of interest. The video is in the UNCW Navigator section of this repository as a mp4.
+UNCW navigator is a mobile application that gives the user access to a map of campus or any campus that it is set to and gives the ability to get directions and explore campus. You are able to create an account and save specific buildings for easy access for later use. You can explore buildings and see a description of the building. There is also the ability to search for a building by its name. For this project I also have a demo video that is available to download and watch if that is of interest. The video is in the UNCW Navigator section of this repository as a mp4. To view the code click [here](https://github.com/JohnathanASmith/Projects/tree/main/Past%20Projects/uncwnavigatorapplication)
 
 ### Platform
 _UNCW Navigator_ is a _**mobile application**_.
