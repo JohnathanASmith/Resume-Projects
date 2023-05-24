@@ -8,7 +8,19 @@ For the display of projects for resume
 
 ## Web Development Website EventIt
 
+### Overview of project
+EventIt was a project I created for my web development classes. EventIt is a website developed for the user to be able to create and join events. These events are displayed via a feed and users are able to click on the events to join the event list. To view the code click [here](https://github.com/JohnathanASmith/web-dev-project)
 
+### Platform
+_EventIt_ is a _**website**_.
+
+### Implementation Technologies
+
+**Languages Utilized** : HTML, PHP, CSS, JavaScript, SQL
+
+**Database** : phoMyAdmin a SQL relational Databse
+
+### Images of Project
 
 ## Pawpals
 
