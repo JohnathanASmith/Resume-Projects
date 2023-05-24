@@ -20,8 +20,10 @@ _EventIt_ is a _**website**_.
 
 **Database** : phpMyAdmin a SQL relational Databse
 
+### Video
+https://github.com/JohnathanASmith/Resume-Projects/assets/112116587/58d8d56b-2763-43c3-9d78-767eaf8987c9
+
 ### Images of Project
-![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/18-39-45.mp4)
 ![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/1.png)
 ![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/2.png)
 ![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/3.png)
