@@ -22,6 +22,19 @@ _EventIt_ is a _**website**_.
 
 ### Images of Project
 ![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/1.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/2.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/3.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/4.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/5.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/6.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/7.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/8.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/9.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/10.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/11.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/12.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/13.png)
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/14.png)
 
 ## Pawpals
 
