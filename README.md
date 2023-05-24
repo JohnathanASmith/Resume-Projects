@@ -21,6 +21,7 @@ _EventIt_ is a _**website**_.
 **Database** : phpMyAdmin a SQL relational Databse
 
 ### Images of Project
+![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/EventIt-Website/1.png)
 
 ## Pawpals
 
