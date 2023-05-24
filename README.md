@@ -91,9 +91,6 @@ _UNCW Navigator_ is a _**mobile application**_.
 
 **Database** : FireBase
 
-### Video
-https://github.com/JohnathanASmith/Resume-Projects/assets/112116587/a7ccd795-f511-4ba0-bc71-2df9d81e78fb
-
 ### Images of Project
 ![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/UNCW-Navigator/navigator1.png)
 ![](https://github.com/JohnathanASmith/Resume-Projects/blob/main/UNCW-Navigator/navigator2.png)
